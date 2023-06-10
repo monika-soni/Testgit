@@ -9,5 +9,6 @@ public static void main(String[] args)
 	System.out.println("uur");
 	System.out.println("rrr");
 	System.out.println("pppp");
+	System.out.println("javaa");
 }
 }
